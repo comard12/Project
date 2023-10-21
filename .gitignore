@@ -1,12 +1,16 @@
 # Prerequisites
 *.d
+
 .vs/
+
 # Compiled Object files
 *.slo
 *.lo
 *.o
 *.obj
-
+*.filters
+*.user
+*.vcxproj
 # Precompiled Headers
 *.gch
 *.pch
